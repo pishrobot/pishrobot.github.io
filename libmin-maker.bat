@@ -1,0 +1,1 @@
+javascript-obfuscator lib.min.js --output lib.min2.js --compact true --self-defending false
